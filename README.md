@@ -1,2 +1,7 @@
-To run the program download project files then open the solution in Visual Studio
-Make Sure Server is connected and db name in SSIM matches db name in Visual Studio
+# library-web-app-final
+C# course - final assignment
+__________________
+
+To run the app:  
+Download project files then open the solution in Visual Studio  
+Make Sure Server is connected and database name in SSIM matches database name in Visual Studio
