@@ -1,0 +1,76 @@
+﻿.form-page {
+    position: relative;
+    text-align: center
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.content .lblStyle {
+    color: dimgray;
+    font-size 15px;
+}
+
+.content input[type=text] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 30px;
+    width:300px;
+    height: 22px;
+}
+
+.content input[type=submit] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 160px;
+    height: 36px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: darkslateblue;
+    color: white;
+    padding: 2px;
+}
+
+    .content input[type=submit]:not(:last-child) {
+        margin-top: 40px;
+        margin-bottom: 10px;
+    }
+
+    .content input[type=submit]:hover {
+        background-color: dimgrey;
+    }
+
+.content #textinpt {
+    margin-top: 10px;
+}
+
+.msg {
+    margin-top: 40px;
+}
+
+.lblMsg {
+    align-content: center;
+    color: orangered;
+    font-size: 20px;
+}
+
+.lblMsg2 {
+    align-content: center;
+    color: darkslateblue;
+    font-size: 20px;
+}
+
+.success {
+    align-content: center;
+    color: forestgreen;
+    font-size: 20px;
+}
